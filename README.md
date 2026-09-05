@@ -20,7 +20,6 @@
 
 - **数値線形代数学** — QR 分解・SVD・Gram–Schmidt・反復法まわり
 - **統計学習 / Statistical Learning** — 趣味として。ISLP（Python 版）を中心に
-- **数理最適化** — モデル化からアルゴリズムまで
 
 ## 🛠 技術スタック / Tech Stack
 
