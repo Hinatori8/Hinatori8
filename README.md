@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Hinatori8">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=CS+student+at+Tokyo+City+University;Numerical+Linear+Algebra;Statistical+Learning+(for+fun);Python+%2F+C+%2F+LaTeX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=CS+student+at+Tokyo+City+University;Numerical+Linear+Algebra;Statistical+Learning+(for+fun);Python+%2F+C+%2F+Java+%2F+MATLAB+%2F+LuaLaTeX" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,8 +26,14 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![LuaLaTeX](https://img.shields.io/badge/LuaLaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📜 資格 / Certifications
+
+- **統計検定 2 級**（2026 年 5 月・CBT 方式） — 一般財団法人統計質保証推進協会 · [オープンバッジ](https://walletapi.openbadge.net/api/public-credentials/share/0a53a523-46cf-8f14-9712-019e24ccbc7b)
 
 ## 📚 参照・学習に使っている本 / Books
 
