@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Hinatori8">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=CS+student+at+Tokyo+City+University;Numerical+Linear+Algebra;Statistical+Learning+(for+fun);Python+%2F+C+%2F+Java+%2F+MATLAB+%2F+LuaLaTeX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=CS+student+at+Tokyo+City+University" alt="Typing SVG" />
   </a>
 </p>
 
