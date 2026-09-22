@@ -40,6 +40,8 @@
 **線形代数・数値計算**
 - G. Strang『[線形代数イントロダクション](https://www.amazon.co.jp/dp/4764904055)』（世界標準 MIT 教科書）— 学習の土台にしている本
 - L. N. Trefethen & D. Bau III『[Numerical Linear Algebra](https://epubs.siam.org/doi/book/10.1137/1.9781611977165)』
+  
+  (pdf: https://www.stat.uchicago.edu/~lekheng/courses/309/books/Trefethen-Bau.pdf)
 <!--
 - C. T. Kelley『[Iterative Methods for Linear and Nonlinear Equations](https://www.amazon.com/dp/0898713528)』（SIAM Frontiers in Applied Mathematics）
 - Y. Saad『[Iterative Methods for Sparse Linear Systems](https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf)』（2nd ed., 著者公開 PDF）— 疎行列の反復解法
