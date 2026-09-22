@@ -40,15 +40,19 @@
 **線形代数・数値計算**
 - G. Strang『[線形代数イントロダクション](https://www.amazon.co.jp/dp/4764904055)』（世界標準 MIT 教科書）— 学習の土台にしている本
 - L. N. Trefethen & D. Bau III『[Numerical Linear Algebra](https://epubs.siam.org/doi/book/10.1137/1.9781611977165)』
-[] (- C. T. Kelley『[Iterative Methods for Linear and Nonlinear Equations](https://www.amazon.com/dp/0898713528)』（SIAM Frontiers in Applied Mathematics）)
-[] (- Y. Saad『[Iterative Methods for Sparse Linear Systems](https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf)』（2nd ed., 著者公開 PDF）— 疎行列の反復解法 )
+<!--
+- C. T. Kelley『[Iterative Methods for Linear and Nonlinear Equations](https://www.amazon.com/dp/0898713528)』（SIAM Frontiers in Applied Mathematics）
+- Y. Saad『[Iterative Methods for Sparse Linear Systems](https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf)』（2nd ed., 著者公開 PDF）— 疎行列の反復解法
+-->
 
 **最適化数学**
 - S. Boyd & L. Vandenberghe『[ベクトル・行列からはじめる最適化数学（VMLS）](https://www.amazon.co.jp/dp/B0967Y28B6)』14章まで
 - 梅谷俊治『[しっかり学ぶ数理最適化 — モデルからアルゴリズムまで](https://www.amazon.co.jp/dp/4065212707)』2章まで
 
 **統計・統計学習**
-[] (- 東京大学教養学部統計学教室『[統計学入門](https://www.amazon.co.jp/dp/4130420658)』（基礎統計学Ⅰ）)
+<!--
+- 東京大学教養学部統計学教室『[統計学入門](https://www.amazon.co.jp/dp/4130420658)』（基礎統計学Ⅰ）
+-->
 - G. James, D. Witten, T. Hastie, R. Tibshirani『[An Introduction to Statistical Learning](https://www.statlearning.com)』（Python 版 / ISLP）
 - 日本統計学会『[統計検定 2 級 公式問題集［CBT 対応版］](https://www.amazon.co.jp/dp/4788920476)』
 
