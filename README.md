@@ -13,12 +13,11 @@
 東京都市大学 情報科学科所属の学生です。
 線形代数学の基礎的な内容から入り、研究室を意識して **数値線形代数学** 方面の学習をしています。**統計学習** を趣味的に勉強しています。
 
-
 *A CS student at Tokyo City University — into numerical linear algebra, and studying statistical learning for fun.*
 
 ## 🌱 いま学んでいること / Now Learning
 
-- **数値線形代数学** — QR 分解・SVD・Gram–Schmidt・反復法まわり
+- **数値線形代数学** — 固有値問題
 - **統計学習 / Statistical Learning** — 趣味として。ISLP（Python 版）を中心に
 
 ## 🛠 技術スタック / Tech Stack
@@ -40,7 +39,7 @@
 
 **線形代数・数値計算**
 - G. Strang『[線形代数イントロダクション](https://www.amazon.co.jp/dp/4764904055)』（世界標準 MIT 教科書）— 学習の土台にしている本
-- L. N. Trefethen & D. Bau III『[Numerical Linear Algebra](https://www.amazon.co.jp/dp/0898714877)』— QR・SVD・反復法。読書ノート → [Trefethen-Bau_notes](https://github.com/Hinatori8/Trefethen-Bau_notes)
+- L. N. Trefethen & D. Bau III『[Numerical Linear Algebra](https://epubs.siam.org/doi/book/10.1137/1.9781611977165)』— QR・SVD・反復法。読書ノート → [Trefethen-Bau_notes](https://github.com/Hinatori8/Trefethen-Bau_notes)
 - C. T. Kelley『[Iterative Methods for Linear and Nonlinear Equations](https://www.amazon.com/dp/0898713528)』（SIAM Frontiers in Applied Mathematics）— 反復法
 - Y. Saad『[Iterative Methods for Sparse Linear Systems](https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf)』（2nd ed., 著者公開 PDF）— 疎行列の反復解法
 
