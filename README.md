@@ -54,7 +54,7 @@
 
 ## 🤝 共同開発 / Collaborations
 
-- 2次元画像から3DCGモデルを再構築するプロジェクト [4bitcom_HandM](https://github.com/matsudaryusei/4bitcom_HandM)
+- 2次元画像から3DCGモデルを再構築するプロジェクト [recon3d](https://github.com/matsudaryusei/4bitcom_HandM)
 
 Contributors: [@Hinatori8](https://github.com/Hinatori8) · [@matsudaryusei](https://github.com/matsudaryusei)
 
