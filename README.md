@@ -44,7 +44,7 @@
 [] (- Y. Saad『[Iterative Methods for Sparse Linear Systems](https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf)』（2nd ed., 著者公開 PDF）— 疎行列の反復解法 )
 
 **最適化数学**
-- S. Boyd & L. Vandenberghe『[ベクトル・行列からはじめる最適化数学（VMLS）](https://www.amazon.co.jp/dp/B0967Y28B6)』
+- S. Boyd & L. Vandenberghe『[ベクトル・行列からはじめる最適化数学（VMLS）](https://www.amazon.co.jp/dp/B0967Y28B6)』14章まで
 - 梅谷俊治『[しっかり学ぶ数理最適化 — モデルからアルゴリズムまで](https://www.amazon.co.jp/dp/4065212707)』2章まで
 
 **統計・統計学習**
