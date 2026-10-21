@@ -83,3 +83,10 @@ Contributors: [@Hinatori8](https://github.com/Hinatori8) · [@matsudaryusei](htt
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hinatori8/Hinatori8/output/github-contribution-grid-snake.svg" />
 </picture>
 
+## 🦈 ASCII Sharks
+
+<p align="center">
+  <img src="assets/ascii-sharks.gif" alt="ASCII sharks hunting schools of fish" width="840" />
+</p>
+
+<p align="center"><sub>Rendered with <a href="https://github.com/stackedlol/ascii-sharks">stackedlol/ascii-sharks</a></sub></p>
